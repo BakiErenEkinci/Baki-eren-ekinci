@@ -30,11 +30,12 @@ The game allows playing piano notes via keyboard input and stores statistics usi
 > ⚠️ The `sqlite-jdbc` JAR file **must be located inside the `lib` folder**.
 > project-root/
 │
-├─ src/                 # Java source files
-├─ lib/                 # External libraries
+> 
+├─ src/
+├─ lib/
 │   └─ sqlite-jdbc-3.x.x.jar
 │
-├─ piano_stats.db       # SQLite database file
+├─ piano_stats.db     
 ├─ README.md
 
 
